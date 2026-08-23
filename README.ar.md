@@ -40,9 +40,25 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 
 توجد القيود الجمالية وقواعد الرفض الكاملة في المهارة وتوجيهات الإنتاج. وهي تحفظ دافع النص الأصلي من دون تحويل لوحة 3:4 التاريخية إلى قيمة افتراضية خفية. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-047-prompt.en.md)
 
-## النماذج · قريباً
+## النماذج · من X
 
-لن يضاف إلى `assets/examples/` إلا عمل مكتمل بهذا الأسلوب ومؤكد من صاحب المشروع، ولن يُستخدم أسلوب آخر كعنصر مؤقت.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 أغسطس 2026<br>
+> GPT2 × مجسّم × إمباستو × ثلاثي الأبعاد × توجيه جمالي × VOL.047
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 047 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات قابلة للجمع
 

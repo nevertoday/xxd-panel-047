@@ -40,9 +40,25 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 
 전체 미적 제약과 금지 항목은 Skill과 생성 프롬프트에 있습니다. 원문 미학을 보존하지만 역사적인 3:4 화면을 숨은 기본값으로 만들지 않습니다. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-047-prompt.en.md)
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-`assets/examples/`에는 프로젝트 작성자가 확인한 이 스타일의 완성작만 추가하고 다른 스타일을 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 2026년 8월 23일<br>
+> GPT2 × 입체 × 임파스토 × 3D × 미학 프롬프트 × VOL.047
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 047의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 조합 가능한 네 가지 출력
 

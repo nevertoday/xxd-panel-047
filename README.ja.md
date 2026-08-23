@@ -40,9 +40,25 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 
 完全な美的制約と拒否項目は Skill と生成プロンプトにあります。原文の美的動機を守りつつ、歴史的な3:4画布を隠れた既定値にはしません。 [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-047-prompt.en.md)
 
-## 作例 · 近日追加
+## 作例 · X より
 
-`assets/examples/` には作者確認済みの本スタイル作品だけを追加し、他スタイルを仮置きしません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 2026年8月23日<br>
+> GPT2 × 立体 × インパスト × 3D × 美学プロンプト × VOL.047
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 047 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な4つの出力
 

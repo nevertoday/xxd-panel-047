@@ -41,9 +41,25 @@ If an unrelated photograph could replace the source without materially changing 
 
 Complete aesthetic constraints and rejection rules live in the Skill and production prompts. They preserve the original brief without turning its historical 3:4 canvas into a hidden default. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-047-prompt.en.md)
 
-## Samples · Coming soon
+## Samples · From X
 
-Only finished work verified by the project owner will be added to `assets/examples/`; another style is never used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 August 2026<br>
+> GPT2 × dimensional form × impasto × 3D × aesthetic prompt × VOL.047
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 047 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four combinable output modes
 
