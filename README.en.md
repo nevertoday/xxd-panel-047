@@ -20,6 +20,26 @@
 
 A recognisable volumetric miniature truly stands, grows, lands, reflects, or passes through a source-derived impasto spatial field. Palette-knife paint becomes water, ground, road, grass, light, shoreline, or shadow rather than a backdrop.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 August 2026<br>
+> GPT2 × dimensional form × impasto × 3D × aesthetic prompt × VOL.047
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 047 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -40,26 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Keep one visual centre, diagonal depth, stable gravity, source-directed placement, and large whitespace; any cloud, sun, plant, wave, or natural motif remains low weight.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/047-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-047-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 August 2026<br>
-> GPT2 × dimensional form × impasto × 3D × aesthetic prompt × VOL.047
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 047 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 047 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 047 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 047 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 047 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

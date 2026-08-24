@@ -20,26 +20,6 @@
 
 식별 가능한 입체 미니어처가 원본 기반 임파스토 공간에서 실제로 서고, 자라고, 착지하고, 반사되거나 통과합니다. 나이프 물감은 배경이 아니라 물, 땅, 길, 풀, 빛, 해안 또는 그림자가 됩니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
-```
-
-무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- **원본 결속:** 정교한 아이소메트릭 미니어처를 살아 있는 임파스토 색면 안에 세우기
-- **스타일 DNA:** 아이소메트릭 미니어처 · 주제 임파스토 · 실제 접촉 · 따뜻한 흰 종이 · 밝은 색
-- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
-- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
-- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/047-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-047-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 2026년 8월 23일<br>
@@ -59,6 +39,26 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 047의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 정교한 아이소메트릭 미니어처를 살아 있는 임파스토 색면 안에 세우기
+- **스타일 DNA:** 아이소메트릭 미니어처 · 주제 임파스토 · 실제 접촉 · 따뜻한 흰 종이 · 밝은 색
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/047-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-047-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

@@ -20,26 +20,6 @@
 
 識別可能な立体ミニチュアが、元写真由来の厚塗り空間に実際に立ち、育ち、着地し、反射し、通過します。ナイフの絵具は背景でなく、水、地面、道、草、光、岸、影になります。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- **元写真への拘束：** 精緻な等距ミニチュアを、生きた厚塗り色域の中へ立たせる
-- **スタイルDNA：** 等距ミニチュア · 主題的厚塗り · 実在接触 · 暖白紙 · 明るい色
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/047-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-047-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 2026年8月23日<br>
@@ -59,6 +39,26 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 047 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
+```
+
+無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- **元写真への拘束：** 精緻な等距ミニチュアを、生きた厚塗り色域の中へ立たせる
+- **スタイルDNA：** 等距ミニチュア · 主題的厚塗り · 実在接触 · 暖白紙 · 明るい色
+- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
+- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
+- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
+
+美的制約と拒否項目は[原文プロンプト](references/047-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-047-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

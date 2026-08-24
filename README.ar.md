@@ -20,26 +20,6 @@
 
 يقف مجسّم حجمي مميز أو ينمو أو يهبط أو ينعكس أو يعبر داخل حقل مكاني من الطلاء الكثيف مشتق من المصدر. ويصبح طلاء السكين ماءً أو أرضاً أو طريقاً أو عشبا أو ضوءاً أو شاطئاً أو ظلاً، لا خلفية.
 
-## لماذا توجد هذه المهارة؟
-
-يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
-
-```text
-lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
-```
-
-إذا أمكن استبدال المصدر بصورة لا صلة لها من دون تغيير جوهري في التعرّف والبناء والموضع والمادة واللون والفراغ والنص، فالنتيجة لا تنتمي إلى هذا Panel.
-
-## العقد البصري
-
-- **الارتباط بالمصدر:** إقامة مجسّم إيزومتري دقيق داخل حقل حي من الطلاء الكثيف
-- **بصمة الأسلوب:** مجسّم إيزومتري · طلاء موضوعي كثيف · تماس حقيقي · ورق أبيض دافئ · لون مضيء
-- **قابلية التعرّف:** تُحفظ ثلاث علامات خاصة بالمصدر على الأقل، ويجب أن تنتج الصورة غير المرتبطة بناءً مختلفاً جوهرياً.
-- **التكوين:** يحافظ على موضوع واحد أو علاقة لا تنفصل، وموضع مدعوم بالمصدر، وفراغ فعّال.
-- **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
-
-لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/047-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-047-prompt.en.md)
-
 ## النماذج · من X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 أغسطس 2026<br>
@@ -59,6 +39,26 @@ lock identity, volume, direction, and landing point → preserve three cues → 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
 
 تعرض هذه النماذج الدافع الجمالي للإصدار 047 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
+## لماذا توجد هذه المهارة؟
+
+يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
+
+```text
+lock identity, volume, direction, and landing point → preserve three cues → rebuild one refined isometric miniature → derive one thematic spatial slice from source content → turn impasto into water, ground, road, grass, light, shore, or shadow → create real contact, embedding, crossing, reflection, ripple, cast shadow, or edge escape → keep warm-white paper breathing space → align copy to perspective and paint edge
+```
+
+إذا أمكن استبدال المصدر بصورة لا صلة لها من دون تغيير جوهري في التعرّف والبناء والموضع والمادة واللون والفراغ والنص، فالنتيجة لا تنتمي إلى هذا Panel.
+
+## العقد البصري
+
+- **الارتباط بالمصدر:** إقامة مجسّم إيزومتري دقيق داخل حقل حي من الطلاء الكثيف
+- **بصمة الأسلوب:** مجسّم إيزومتري · طلاء موضوعي كثيف · تماس حقيقي · ورق أبيض دافئ · لون مضيء
+- **قابلية التعرّف:** تُحفظ ثلاث علامات خاصة بالمصدر على الأقل، ويجب أن تنتج الصورة غير المرتبطة بناءً مختلفاً جوهرياً.
+- **التكوين:** يحافظ على موضوع واحد أو علاقة لا تنفصل، وموضع مدعوم بالمصدر، وفراغ فعّال.
+- **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
+
+لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/047-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-047-prompt.en.md)
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
