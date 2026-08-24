@@ -1,6 +1,7 @@
 interface:
   display_name: "/xxd-panel-047"
-  short_description: "Create source-aware XXD Panel 047 artwork"
-  default_prompt: "Use $xxd-panel-047 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
+  short_description: "Create Panel 047 from its original style brief."
+  default_prompt: "Use $xxd-panel-047; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
+
 policy:
   allow_implicit_invocation: true
