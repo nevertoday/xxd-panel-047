@@ -40,6 +40,12 @@
 
 可识别的立体微缩实体真实站立、生长、落地、倒影或穿越于源图衍生厚涂空间；刮刀颜料成为水面、地面、道路、草地、光带、岸线或影子，而不是背景。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 047 适合你吗？
 
@@ -70,11 +76,11 @@
 - 使用源图最明亮有神的颜色，提高生命力与纯净度，配大量清洁暖白和一处阳光点色；拒绝灰脏、莫兰迪钝化、荧光和廉价糖果色。
 - 只保留一个视觉中心、斜向纵深、稳定重心、源图方向性位置和大面积留白；云、太阳、植物、波纹等只能低权重存在。
 
-原始审美约束与拒绝项只存在于[原始提示词](references/047-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-047-prompt.en.md)
+原始审美约束与拒绝项只存在于[原始提示词](references/original-prompt/zh-CN.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-047-prompt.en.md)
 
 ## 原始提示词优先，而不是二次导演
 
-`references/047-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -214,7 +220,7 @@ $xxd-panel-047
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/047-source.md) · [英文运行适配器](references/xxd-panel-047-prompt.en.md) · [中文运行适配器](references/xxd-panel-047-prompt.zh-CN.md)
+完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-047-prompt.en.md) · [中文运行适配器](references/xxd-panel-047-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目

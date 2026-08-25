@@ -40,6 +40,12 @@ These samples demonstrate the 047 aesthetic motive. Their subjects, composition,
 
 A recognisable volumetric miniature truly stands, grows, lands, reflects, or passes through a source-derived impasto spatial field. Palette-knife paint becomes water, ground, road, grass, light, shoreline, or shadow rather than a backdrop.
 
+## Original prompt · Five languages
+
+[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 047 right for you?
 
@@ -70,11 +76,11 @@ If an unrelated photograph could replace the source without materially changing 
 - Use the source's brightest spirited colours, clarified for life and purity, with abundant clean warm white and a small sunlit accent; reject grey dirt, Morandi dulling, fluorescence, and cheap candy colour.
 - Keep one visual centre, diagonal depth, stable gravity, source-directed placement, and large whitespace; any cloud, sun, plant, wave, or natural motif remains low weight.
 
-Aesthetic constraints and rejection rules live only in the [original source brief](references/047-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-047-prompt.en.md)
+Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-047-prompt.en.md)
 
 ## The original brief is authoritative
 
-`references/047-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
@@ -214,7 +220,7 @@ $xxd-panel-047
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/047-source.md) · [English runtime adapter](references/xxd-panel-047-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-047-prompt.zh-CN.md)
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-047-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-047-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
