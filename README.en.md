@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ISOMETRIC MINIATURE · THEMATIC IMPASTO · REAL CONTACT · WARM-WHITE PAPER · LUMINOUS COLOUR
-
-A recognisable volumetric miniature truly stands, grows, lands, reflects, or passes through a source-derived impasto spatial field. Palette-knife paint becomes water, ground, road, grass, light, shoreline, or shadow rather than a backdrop.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 August 2026<br>
-> GPT2 × dimensional form × impasto × 3D × aesthetic prompt × VOL.047
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ A recognisable volumetric miniature truly stands, grows, lands, reflects, or pas
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091340055138963955) · 23 August 2026<br>
+> GPT2 × dimensional form × impasto × 3D × aesthetic prompt × VOL.047
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091340055138963955">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 047 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ISOMETRIC MINIATURE · THEMATIC IMPASTO · REAL CONTACT · WARM-WHITE PAPER · LUMINOUS COLOUR
+
+A recognisable volumetric miniature truly stands, grows, lands, reflects, or passes through a source-derived impasto spatial field. Palette-knife paint becomes water, ground, road, grass, light, shoreline, or shadow rather than a backdrop.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 047 right for you?
