@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 047
+# 🦁 XXD Panel 047｜等距厚涂景
 
 ### 让精致轴测微缩实体站进有生命的厚涂色域
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 047
+# 🦁 XXD Panel 047｜Isometric Impasto Scene
 
 ### Let a refined isometric miniature stand inside living impasto colour
 
