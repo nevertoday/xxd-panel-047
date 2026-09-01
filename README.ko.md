@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 047 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 047｜아이소메트릭 임파스토 풍경
