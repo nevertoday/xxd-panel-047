@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 047｜Isometric Impasto Scene: rebuilds the photo's subject as a finely detailed isometric 3D miniature with clear volume and a firm footing, standing on, sinking into or crossing a block of thick impasto paint that becomes water, ground, a road, grass, a shoreline or a strip of light along the isometric axes — palette-knife marks, raised paint and relief-like clouds and water around a crisp model, as if a real model stood in wet oil paint on paper. Bright, clean colours from the photo, wide warm-white space, and a short title with tiny notes following the axes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-047 or asks for isometric miniatures on impasto paint, axonometric diorama painting or 3D model meets oil paint from a photo.",
+  "short_description": "等距厚涂景：让照片主体变成精致轴测微缩模型，稳稳立在一块厚涂油彩色域里",
+  "zh-CN": {
+    "name": "等距厚涂景",
+    "tagline": "让照片主体变成一件精致的轴测微缩模型，站进一块有生命的厚涂色域。",
+    "look": "主体被做成等距轴测的立体微缩实体，体积和结构清楚，稳稳落在一块厚涂颜料形成的色域上。这块色域按照片内容变成水面、地面、道路、草地、岸线或光带，沿轴测方向延伸；主体在里面落地、嵌入或穿过，带着倒影、波纹或投影。模型本身精致利落，周围的云、水和地面则是刮刀痕、厚颜料堆积和浮雕般的油彩厚度，像真模型立在还没干的油画颜料上。颜色从照片里取最明亮鲜活的几种，配大量干净暖白；短标题和小注释顺着轴测方向排列。",
+    "traits": ["等距微缩", "厚涂", "真实接触", "暖白纸", "明亮色彩"],
+    "good": [
+      "结构清楚、能做成轴测模型的主体：一栋房子、一辆电车、一座灯塔、一艘帆船",
+      "主体和水、路、草地有关系的场景：码头、乡间公路、草坡上的小屋",
+      "想做成明亮的空间感海报、地点纪念或桌面壁纸的照片"
+    ],
+    "poor": [
+      "没有可站立实体的照片：天空、纯风景远景、抽象纹理",
+      "以人像表情为重点的特写",
+      "想要平面插画、塑料玩具模型、灰暗色调或普通 CG 微景观的效果"
+    ]
+  },
+  "en": {
+    "name": "Isometric Impasto Scene",
+    "tagline": "Turns your photo's subject into a refined isometric miniature standing inside a field of living impasto paint.",
+    "look": "The subject becomes an isometric 3D miniature with clear volume and structure, set firmly on a block of thick impasto paint. That block becomes water, ground, a road, grass, a shoreline or a strip of light depending on the photo, stretching along the isometric axes; the model stands on it, sinks into it or crosses it, with reflections, ripples or cast shadows. The model itself is crisp and finely made, while the clouds, water and ground around it carry palette-knife marks, built-up paint and relief-like thickness, as if a real model stood in oil paint that has not yet dried. Colours are the photo's brightest, liveliest ones with plenty of clean warm white; a short title and tiny notes follow the isometric direction.",
+    "traits": ["Isometric miniature", "Impasto", "Real contact", "Warm white paper", "Bright colour"],
+    "good": [
+      "Subjects with clear structure that work as an isometric model: a house, a tram, a lighthouse, a sailing boat",
+      "Scenes where the subject meets water, a road or grass: a jetty, a country road, a cottage on a grassy slope",
+      "Photos you want as a bright poster with depth, a keepsake of a place or a desktop wallpaper"
+    ],
+    "poor": [
+      "Photos with nothing solid to stand in the paint: open sky, distant landscapes, abstract textures",
+      "Close-ups where the point is a person's expression",
+      "Requests for flat illustration, plastic toy models, dark grey tones or generic CG dioramas"
+    ]
+  },
+  "ja": {
+    "name": "アイソメトリック厚塗り風景",
+    "tagline": "写真の主役を精巧な等角ミニチュアにして、生きた厚塗りの色域の中に立たせます。",
+    "look": "主役は量感と構造のはっきりした等角投影の立体ミニチュアになり、厚塗りの絵の具でできた色域の上にしっかり置かれます。色域は写真の内容に合わせて水面、地面、道、草地、岸辺、光の帯になり、等角の方向に伸びていきます。模型はその上に立ち、沈み込み、横切り、映り込み、波紋、影を伴います。模型そのものは精巧でくっきりしている一方、まわりの雲、水、地面にはペインティングナイフの跡、盛り上がった絵の具、浮き彫りのような厚みがあり、本物の模型がまだ乾いていない油絵の具の中に立っているように見えます。色は写真でいちばん明るく生き生きした色に、たっぷりの清潔な温かい白。短いタイトルと小さな注記は等角の方向に沿って並びます。",
+    "traits": ["等角ミニチュア", "厚塗り", "実際の接地", "温かい白の紙", "明るい色"],
+    "good": [
+      "構造がはっきりして等角の模型にできる主役：家、路面電車、灯台、帆船",
+      "主役が水、道、草地と関わる場面：桟橋、田舎道、草の斜面に建つ小屋",
+      "奥行きのある明るいポスター、場所の記念、デスクトップ壁紙にしたい写真"
+    ],
+    "poor": [
+      "絵の具の中に立たせる実体がない写真：空、遠景だけの風景、抽象的な模様",
+      "人物の表情が主役のクローズアップ",
+      "平面イラスト、プラスチックの玩具模型、暗い灰色の色調、ありきたりな CG ジオラマを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "아이소메트릭 임파스토 풍경",
+    "tagline": "사진의 주인공을 정교한 아이소메트릭 미니어처로 만들어 살아 있는 임파스토 색면 안에 세웁니다.",
+    "look": "주인공은 부피와 구조가 분명한 아이소메트릭 입체 미니어처가 되어 두꺼운 임파스토 물감으로 된 색면 위에 단단히 놓입니다. 이 색면은 사진 내용에 따라 수면, 땅, 도로, 풀밭, 물가, 빛의 띠가 되어 아이소메트릭 방향으로 뻗어 나가고, 모형은 그 위에 서거나 잠기거나 가로지르며 반영, 물결, 그림자를 남깁니다. 모형 자체는 정교하고 또렷한 반면 주변의 구름, 물, 땅에는 나이프 자국, 쌓인 물감, 부조 같은 두께가 있어 진짜 모형이 아직 마르지 않은 유화 물감 속에 서 있는 것처럼 보입니다. 색은 사진에서 가장 밝고 생기 있는 색에 깨끗하고 따뜻한 흰색을 넉넉히 두고, 짧은 제목과 작은 메모는 아이소메트릭 방향을 따라 놓입니다.",
+    "traits": ["아이소메트릭 미니어처", "임파스토", "실제 접지", "따뜻한 흰 종이", "밝은 색"],
+    "good": [
+      "구조가 분명해 아이소메트릭 모형으로 만들기 좋은 주인공: 집, 전차, 등대, 돛단배",
+      "주인공이 물, 길, 풀밭과 만나는 장면: 선착장, 시골길, 풀 언덕 위 오두막",
+      "깊이감 있는 밝은 포스터, 장소 기념, 바탕화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "물감 속에 세울 실체가 없는 사진: 하늘, 먼 풍경만 있는 사진, 추상적인 무늬",
+      "인물의 표정이 핵심인 클로즈업",
+      "평면 일러스트, 플라스틱 장난감 모형, 어두운 회색 톤, 흔한 CG 디오라마를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد متساوي القياس بطلاء سميك",
+    "tagline": "يحوّل موضوع صورتك إلى مجسّم إيزومتري مصغّر دقيق يقف داخل حقل حي من الطلاء الكثيف.",
+    "look": "يصبح الموضوع مجسماً مصغّراً ثلاثي الأبعاد بإسقاط إيزومتري، واضح الحجم والبنية، مستقراً بثبات على كتلة من الطلاء الكثيف. تتحول هذه الكتلة بحسب الصورة إلى ماء أو أرض أو طريق أو عشب أو خط شاطئ أو شريط ضوء، ممتدة على المحاور الإيزومترية، فيقف المجسم عليها أو يغوص فيها أو يعبرها مع انعكاسات أو تموجات أو ظلال. المجسم نفسه دقيق وحاد، بينما تحمل السحب والماء والأرض حوله آثار سكين الرسم وتراكم الطلاء وسماكة تشبه النحت البارز، كأن نموذجاً حقيقياً يقف في طلاء زيتي لم يجف بعد. الألوان هي أكثر ألوان الصورة إشراقاً وحيوية مع أبيض دافئ نظيف وفير، ويتبع عنوان قصير وملاحظات صغيرة الاتجاه الإيزومتري.",
+    "traits": ["مجسم إيزومتري مصغّر", "طلاء كثيف", "تلامس حقيقي", "ورق أبيض دافئ", "ألوان مشرقة"],
+    "good": [
+      "موضوعات واضحة البنية تصلح نموذجاً إيزومترياً: بيت، ترام، منارة، مركب شراعي",
+      "مشاهد يلتقي فيها الموضوع بالماء أو الطريق أو العشب: رصيف بحري، طريق ريفي، كوخ على منحدر عشبي",
+      "صور تريدها ملصقاً مشرقاً فيه عمق أو تذكاراً لمكان أو خلفية لسطح المكتب"
+    ],
+    "poor": [
+      "صور ليس فيها شيء صلب يقف في الطلاء: سماء مفتوحة، مناظر بعيدة فقط، أنسجة مجردة",
+      "لقطات قريبة يكون جوهرها تعبير وجه شخص",
+      "طلب رسم مسطح أو نماذج ألعاب بلاستيكية أو درجات رمادية قاتمة أو مجسمات CG نمطية"
+    ]
+  }
+}

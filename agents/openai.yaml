@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-047"
-  short_description: "Create Panel 047 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-047; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "等距厚涂景：让照片主体变成精致轴测微缩模型，稳稳立在一块厚涂油彩色域里"
+  default_prompt: "Use $xxd-panel-047 to turn my photo into Isometric Impasto Scene artwork."
 
 policy:
   allow_implicit_invocation: true

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-047
-description: "Create XXD Panel 047 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-047 or requests the exact Panel 047 style."
+description: "XXD Panel 047｜Isometric Impasto Scene: rebuilds the photo's subject as a finely detailed isometric 3D miniature with clear volume and a firm footing, standing on, sinking into or crossing a block of thick impasto paint that becomes water, ground, a road, grass, a shoreline or a strip of light along the isometric axes — palette-knife marks, raised paint and relief-like clouds and water around a crisp model, as if a real model stood in wet oil paint on paper. Bright, clean colours from the photo, wide warm-white space, and a short title with tiny notes following the axes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-047 or asks for isometric miniatures on impasto paint, axonometric diorama painting or 3D model meets oil paint from a photo."
 ---
 
 # XXD Panel 047
